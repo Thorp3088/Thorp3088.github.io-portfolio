@@ -1,0 +1,161 @@
+.courgette-regular {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+  }
+  body{
+    background-color: steelblue;
+  }
+  
+  .head{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    position: relative;
+    left: 150px;
+    top: 10px;
+    box-shadow: 5px 4px 4px 2px black;
+  }
+  
+  .eye1{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    position: relative;
+    left: 20px;
+    top: 25px;
+  }
+  .eye2{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    position: relative;
+    left: 70px;
+    top: 5px;
+  }
+  
+  .nose{
+    background-color: orange;
+    height: 8px;
+    width: 40px;
+    position: absolute;
+    border-radius: 30px;
+    left: 40px;
+    top: 52px;
+  }
+  
+  .mouthball1{
+    background-color: black;
+    height: 12px;
+    width: 12px;
+    border-radius: 100px;
+    position: relative;
+    left: 20px;
+    top: 25px;
+  }
+  
+  .mouthball2{
+    background-color: black;
+    height: 12px;
+    width: 12px;
+    border-radius: 100px;
+    position: relative;
+    left: 37px;
+    top: 20px;
+  }
+  
+  .mouthball3{
+    background-color: black;
+    height: 12px;
+    width: 12px;
+    border-radius: 100px;
+    position: relative;
+    left: 57px;
+    top: 8px;
+  }
+  
+  .mouthball4{
+    background-color: black;
+    height: 12px;
+    width: 12px;
+    border-radius: 100px;
+    position: relative;
+    left: 75px;
+    top: -10px;
+  }
+  
+  .body1{
+    background-color: white;
+    height: 140px;
+    width: 140px;
+    border-radius: 100%;
+    position: relative;
+    left: 140px;
+    top: 10px;
+    box-shadow: 5px 4px 4px 2px black;
+  }
+  
+  .button1{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    position: relative;
+    left: 58px;
+    top: 25px;
+  }
+  
+  .arm1{
+    background-color: chocolate;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 50px;
+    bottom: 250px;
+  }
+  .button2{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    position: relative;
+    left: 58px;
+    top: 30px;
+  }
+  
+  .button3{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    position: relative;
+    left: 58px;
+    top: 35px;
+  }
+  
+  .body2{
+    background-color: white;
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+    position: relative;
+    left: 130px;
+    top: 10px;
+    box-shadow: 5px 4px 4px 2px black;
+  }
+  .arm2{
+    background-color: chocolate;
+    height: 10px;
+    width: 100px;
+    position: relative;
+    left: 265px;
+    bottom: 250px;
+  }
+  .nav-link{
+    font-size: 21px;  
+
+}

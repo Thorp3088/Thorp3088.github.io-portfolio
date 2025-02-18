@@ -1,0 +1,18 @@
+.col-md-3{
+    font-size: 20px;
+}
+.jumbotron{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: ivory;
+}
+.D1{
+    text-align: center;
+    position: relative;
+    left: 15px;
+}
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: gray;
+}
